@@ -163,3 +163,16 @@ form button {
 }
 
 form button:hover {}
+
+.ty{
+    font-family: "Rancho", serif;
+    text-align: center;
+    font-size: 200px;
+    border-style: dotted;
+    background-color: #84a385;
+}
+
+.abc{
+    text-align: center;
+    font-family: "Sawarabi Mincho", serif;
+}
