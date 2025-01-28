@@ -151,18 +151,24 @@ form {
 
 form input, form textarea {
    width: 200px;
+   background-color:beige;
 }
 
 form input:focus, form textarea:focus {
+    background-color: white;
 }
 
 form button {
     width: 100px;
     height: 30px;
     margin-bottom: 10px;
+    background-color: #c5e0c5;
+    font-family: "Sawarabi Mincho", serif;
 }
 
-form button:hover {}
+form button:hover {
+    
+}
 
 .ty{
     font-family: "Rancho", serif;
