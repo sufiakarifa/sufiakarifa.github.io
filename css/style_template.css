@@ -65,6 +65,8 @@ footer a:hover {}
 .splash p {
     font-family: "Sawarabi Mincho", serif;
     text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 /* Horizontal Rules */
