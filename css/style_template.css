@@ -110,6 +110,7 @@ ul {
 
 dl {
     display: grid;
+    grid-template-columns: repeat(2,1fr);
 }
 dl dt{
     display: grid;
@@ -169,7 +170,7 @@ form button {
 }
 
 form button:hover {
-    
+
 }
 
 .ty{
